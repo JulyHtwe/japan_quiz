@@ -14,8 +14,7 @@
   { "name": "ぞう", "image": "elephant.png", "audio": "elephant.mp3" },
   { "name": "ライオン", "image": "lion.png", "audio": "lion.mp3" },
   { "name": "さる", "image": "monkey.png", "audio": "monkey.mp3" },
-  { "name": "くま", "image": "bear.png", "audio": "bear.mp3" },
-  { "name": "おおかみ", "image": "wolf.png", "audio": "wolf.mp3" }
+  { "name": "くま", "image": "bear.png", "audio": "bear.mp3" }
     ],
     "Numbers": [
       { "name": "いち", "image": "1.png", "audio": "1.mp3" },
@@ -30,3 +29,4 @@
   }
 
   
+
