@@ -1,8 +1,21 @@
 {
     "Animals": [
-      { "name": "いぬ", "image": "dog.png", "audio": "dog.mp3" },
-      { "name": "ねこ", "image": "cat.png", "audio": "cat.mp3" },
-      { "name": "うま", "image": "horse.png", "audio": "horse.mp3" }
+  { "name": "いぬ", "image": "dog.png", "audio": "dog.mp3" },
+  { "name": "ねこ", "image": "cat.png", "audio": "cat.mp3" },
+  { "name": "とり", "image": "bird.png", "audio": "bird.mp3" },
+  { "name": "さかな", "image": "fish.png", "audio": "fish.mp3" },
+  { "name": "うし", "image": "cow.png", "audio": "cow.mp3" },
+  { "name": "うま", "image": "horse.png", "audio": "horse.mp3" },
+  { "name": "ぶた", "image": "pig.png", "audio": "pig.mp3" },
+  { "name": "ひつじ", "image": "sheep.png", "audio": "sheep.mp3" },
+  { "name": "やぎ", "image": "goat.png", "audio": "goat.mp3" },
+  { "name": "にわとり", "image": "chicken.png", "audio": "chicken.mp3" },
+  { "name": "かも", "image": "duck.png", "audio": "duck.mp3" },
+  { "name": "ぞう", "image": "elephant.png", "audio": "elephant.mp3" },
+  { "name": "ライオン", "image": "lion.png", "audio": "lion.mp3" },
+  { "name": "さる", "image": "monkey.png", "audio": "monkey.mp3" },
+  { "name": "くま", "image": "bear.png", "audio": "bear.mp3" },
+  { "name": "おおかみ", "image": "wolf.png", "audio": "wolf.mp3" }
     ],
     "Numbers": [
       { "name": "いち", "image": "1.png", "audio": "1.mp3" },
@@ -15,4 +28,5 @@
       { "name": "すし", "image": "sushi.png", "audio": "sushi.mp3" }
     ]
   }
+
   
