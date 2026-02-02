@@ -18,17 +18,56 @@
   { "name": "かえる", "image": "frog.png", "audio": "frog.mp3" }
     ],
     "Numbers": [
-      { "name": "いち", "image": "1.png", "audio": "1.mp3" },
-      { "name": "に", "image": "2.png", "audio": "2.mp3" }
+  { "name": "いち", "image": "1.png", "audio": "1.mp3" },
+  { "name": "に", "image": "2.png", "audio": "2.mp3" },
+  { "name": "さん", "image": "3.png", "audio": "3.mp3" },
+  { "name": "し / よん", "image": "4.png", "audio": "4.mp3" },
+  { "name": "ご", "image": "5.png", "audio": "5.mp3" },
+  { "name": "ろく", "image": "6.png", "audio": "6.mp3" },
+  { "name": "しち / なな", "image": "7.png", "audio": "7.mp3" },
+  { "name": "はち", "image": "8.png", "audio": "8.mp3" },
+  { "name": "きゅう / く", "image": "9.png", "audio": "9.mp3" },
+  { "name": "じゅう", "image": "10.png", "audio": "10.mp3" },
+  { "name": "じゅういち", "image": "11.png", "audio": "11.mp3" },
+  { "name": "じゅうに", "image": "12.png", "audio": "12.mp3" },
+  { "name": "じゅうさん", "image": "13.png", "audio": "13.mp3" },
+  { "name": "じゅうよん", "image": "14.png", "audio": "14.mp3" },
+  { "name": "じゅうご", "image": "15.png", "audio": "15.mp3" },
+  { "name": "じゅうろく", "image": "16.png", "audio": "16.mp3" }
     ],
-    "Countries": [
-      { "name": "にほん", "image": "japan.png", "audio": "japan.mp3" }
+    "Fruits": [
+  { "name": "りんご", "image": "apple.png", "audio": "apple.mp3" },
+  { "name": "バナナ", "image": "banana.png", "audio": "banana.mp3" },
+  { "name": "オレンジ", "image": "orange.png", "audio": "orange.mp3" },
+  { "name": "ぶどう", "image": "grape.png", "audio": "grape.mp3" },
+  { "name": "マンゴー", "image": "mango.png", "audio": "mango.mp3" },
+  { "name": "パイナップル", "image": "pineapple.png", "audio": "pineapple.mp3" },
+  { "name": "パパイヤ", "image": "papaya.png", "audio": "papaya.mp3" },
+  { "name": "すいか", "image": "watermelon.png", "audio": "watermelon.mp3" },
+  { "name": "いちご", "image": "strawberry.png", "audio": "strawberry.mp3" },
+  { "name": "さくらんぼ", "image": "cherry.png", "audio": "cherry.mp3" },
+  { "name": "もも", "image": "peach.png", "audio": "peach.mp3" },
+  { "name": "なし", "image": "pear.png", "audio": "pear.mp3" },
+  { "name": "レモン", "image": "lemon.png", "audio": "lemon.mp3" },
+  { "name": "ココナッツ", "image": "coconut.png", "audio": "coconut.mp3" }
     ],
     "Foods": [
-      { "name": "すし", "image": "sushi.png", "audio": "sushi.mp3" }
+   { "name": "ごはん", "image": "rice.png", "audio": "rice.mp3" },
+  { "name": "パン", "image": "bread.png", "audio": "bread.mp3" },
+  { "name": "みず", "image": "water.png", "audio": "water.mp3" },
+  { "name": "おちゃ", "image": "tea.png", "audio": "tea.mp3" },
+  { "name": "ぎゅうにゅう", "image": "milk.png", "audio": "milk.mp3" },
+  { "name": "たまご", "image": "egg.png", "audio": "egg.mp3" },
+  { "name": "にく", "image": "meat.png", "audio": "meat.mp3" },
+  { "name": "やさい", "image": "vegetable.png", "audio": "vegetable.mp3" },
+  { "name": "めん", "image": "noodles.png", "audio": "noodles.mp3" },
+  { "name": "すし", "image": "sushi.png", "audio": "sushi.mp3" },
+  { "name": "スープ", "image": "soup.png", "audio": "soup.mp3" },
+  { "name": "ケーキ", "image": "cake.png", "audio": "cake.mp3" }
     ]
   }
 
   
+
 
 
